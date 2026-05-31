@@ -1,0 +1,1117 @@
+Actual_Next_Total,Predicted_Next_Total,Hour,Minute,DayOfWeekNum,IsWeekend,IntervalIndex,FixedCycle_GivesGreen,Adaptive_GivesGreen,Actual_LowDemand,Actual_HighDemand,FixedCycle_WastedGreen,Adaptive_WastedGreen,FixedCycle_MissedHighDemand,Adaptive_MissedHighDemand,FixedCycle_Outcome,Adaptive_Outcome
+95.0,107.42259568927871,13,0,5,1,0,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+115.0,101.05110919219092,13,15,5,1,1,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+176.0,104.83021160378321,13,30,5,1,2,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+89.0,139.19505673704757,13,45,5,1,3,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+109.0,122.42723730554422,14,0,5,1,4,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+106.0,108.58900628996928,14,15,5,1,5,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+128.0,93.93797174221982,14,30,5,1,6,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+111.0,107.69905660996926,14,45,5,1,7,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+147.0,117.99115028356734,15,0,5,1,8,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+113.0,125.3314808894308,15,30,5,1,9,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+195.0,120.66678415026028,15,45,5,1,10,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+220.0,189.59369788553744,16,0,5,1,11,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+199.0,185.834192604129,16,15,5,1,12,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+155.0,183.3355389631774,16,30,5,1,13,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+165.0,177.05389724586064,16,45,5,1,14,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+170.0,183.20621593448016,17,0,5,1,15,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+177.0,189.55311843402575,17,15,5,1,16,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+197.0,179.1390211852757,17,30,5,1,17,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+214.0,192.72399422908413,17,45,5,1,18,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+167.0,177.69553643995656,18,0,5,1,19,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+181.0,160.94877875554255,18,15,5,1,20,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+94.0,144.49277047215378,18,30,5,1,21,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+155.0,135.2071475668071,18,45,5,1,22,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+146.0,122.4454570882306,19,0,5,1,23,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+161.0,126.29631264049326,19,15,5,1,24,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+124.0,131.19051845563092,19,30,5,1,25,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+129.0,128.2271321689526,20,15,5,1,26,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+150.0,128.190493768874,20,45,5,1,27,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+132.0,126.90951116752134,21,0,5,1,28,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+115.0,122.12962690488452,21,15,5,1,29,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+138.0,112.44487231807801,21,30,5,1,30,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+52.0,43.83221020950541,22,0,5,1,31,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+37.0,43.44232902880654,22,15,5,1,32,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+46.0,42.47455743748781,22,30,5,1,33,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+30.0,42.936725177976406,22,45,5,1,34,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+28.0,44.009658780127005,23,0,5,1,35,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+63.0,41.08719483450691,23,15,5,1,36,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+37.0,46.07810147990939,23,30,5,1,37,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+51.0,43.698520304514076,23,45,5,1,38,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+43.0,44.10843491808227,0,0,6,1,39,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+54.0,41.19943021893767,0,15,6,1,40,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+51.0,43.430040072743225,0,30,6,1,41,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+36.0,42.70336912933677,0,45,6,1,42,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+43.0,43.87130169301785,1,0,6,1,43,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+44.0,38.718337877177845,1,15,6,1,44,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+47.0,42.98773892867539,1,30,6,1,45,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+54.0,42.00308544326511,1,45,6,1,46,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,42.64948070136067,2,0,6,1,47,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+39.0,41.47278677635848,2,15,6,1,48,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+34.0,41.96890752769797,2,30,6,1,49,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+40.0,45.14705189341495,2,45,6,1,50,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+50.0,42.12484989512277,3,0,6,1,51,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+60.0,47.90499924405928,3,15,6,1,52,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+38.0,46.33508561916486,3,30,6,1,53,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+46.0,49.961558004741654,3,45,6,1,54,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+160.0,100.9066498221972,4,0,6,1,55,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+135.0,142.59673209048262,4,15,6,1,56,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+79.0,127.57648903192876,4,30,6,1,57,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+102.0,127.85835649657407,4,45,6,1,58,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+110.0,109.57352229220677,5,0,6,1,59,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+105.0,108.78401206547906,5,15,6,1,60,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+153.0,142.65322194062804,5,30,6,1,61,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+168.0,138.8427172295896,5,45,6,1,62,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+224.0,170.33610604594952,6,0,6,1,63,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+178.0,180.2192714711539,6,15,6,1,64,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+177.0,180.01033009273308,6,30,6,1,65,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+199.0,169.8918114499261,6,45,6,1,66,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+173.0,190.06694046732454,7,0,6,1,67,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+159.0,183.39590469355633,7,15,6,1,68,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+162.0,180.50249174285455,7,30,6,1,69,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+196.0,169.6680587348685,8,0,6,1,70,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+200.0,187.15393970390878,8,15,6,1,71,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+204.0,181.10167680633887,8,30,6,1,72,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+170.0,183.07448026463652,8,45,6,1,73,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+83.0,134.3773833908146,9,0,6,1,74,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+93.0,103.33776554272717,9,15,6,1,75,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+103.0,103.51069010264365,9,30,6,1,76,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+110.0,104.865294129572,9,45,6,1,77,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+72.0,95.94594025816406,10,0,6,1,78,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+142.0,93.13811004082753,10,15,6,1,79,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+135.0,98.18402452147924,10,30,6,1,80,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+85.0,93.8298569754549,11,0,6,1,81,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+64.0,90.10447903161813,11,15,6,1,82,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+64.0,92.2661243295233,11,30,6,1,83,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+97.0,89.5858257088804,11,45,6,1,84,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+113.0,84.136552456335,12,0,6,1,85,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+108.0,90.07197480429677,12,15,6,1,86,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+114.0,88.02279505065755,12,30,6,1,87,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+80.0,89.34852024602725,12,45,6,1,88,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+99.0,95.53531279931269,13,0,6,1,89,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+113.0,102.00967833491165,13,15,6,1,90,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+139.0,118.8799299798014,13,30,6,1,91,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+120.0,111.4022278023619,13,45,6,1,92,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+66.0,115.68790010109967,14,15,6,1,93,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+60.0,104.60099410692534,14,30,6,1,94,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+124.0,108.25025507237979,14,45,6,1,95,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+142.0,136.98247731603914,15,30,6,1,96,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+204.0,165.75681570664182,16,0,6,1,97,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+194.0,183.3328693267271,16,15,6,1,98,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+207.0,187.16541730259294,16,30,6,1,99,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+202.0,185.61467694641135,16,45,6,1,100,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+185.0,186.23635482786537,17,0,6,1,101,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+205.0,183.73739785890314,17,15,6,1,102,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+183.0,191.4437767755695,17,30,6,1,103,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+168.0,188.06726351708468,17,45,6,1,104,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+214.0,164.79766607492024,18,0,6,1,105,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+183.0,161.09660022666208,18,15,6,1,106,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+95.0,162.13017511649798,18,30,6,1,107,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+136.0,137.65704922501985,18,45,6,1,108,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+134.0,127.90817694769788,19,15,6,1,109,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+133.0,131.35367998664051,19,30,6,1,110,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+117.0,123.85886895580401,19,45,6,1,111,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+120.0,127.25612100638376,20,0,6,1,112,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+119.0,119.79904109305225,20,15,6,1,113,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+132.0,128.48297533916374,20,30,6,1,114,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+100.0,112.99323970690364,21,0,6,1,115,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+150.0,123.59279178596958,21,15,6,1,116,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+128.0,105.14458400105171,21,30,6,1,117,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+46.0,90.86210353413138,21,45,6,1,118,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+51.0,41.872584999980546,22,0,6,1,119,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+53.0,43.39950076383269,22,15,6,1,120,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+28.0,43.45149939193652,22,30,6,1,121,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+46.0,43.99225311112212,22,45,6,1,122,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+52.0,40.663452551924664,23,0,6,1,123,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+36.0,43.473206831878066,23,15,6,1,124,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+29.0,43.87920956821693,23,30,6,1,125,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+29.0,44.095927338615894,23,45,6,1,126,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+43.0,41.3792281674917,0,0,0,0,127,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+55.0,41.430540601129714,0,15,0,0,128,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+36.0,41.025676615618806,0,30,0,0,129,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+26.0,43.086391693961794,0,45,0,0,130,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+53.0,43.14753566862749,1,0,0,0,131,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+53.0,40.31476127896971,1,15,0,0,132,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+54.0,42.8016088221478,1,30,0,0,133,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+46.0,44.56996082490124,1,45,0,0,134,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+39.0,40.65590772806473,2,0,0,0,135,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,41.372770598999786,2,15,0,0,136,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+31.0,43.792550223008455,2,30,0,0,137,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+48.0,42.47836332547434,2,45,0,0,138,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+29.0,46.31495645622074,3,0,0,0,139,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+32.0,40.43630634425998,3,15,0,0,140,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+45.0,44.19330652180175,3,30,0,0,141,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+58.0,57.01237477944568,3,45,0,0,142,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+123.0,103.26935217397794,4,0,0,0,143,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+115.0,102.11209007342373,4,15,0,0,144,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+116.0,112.68874725291184,4,30,0,0,145,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+110.0,118.34713824109123,4,45,0,0,146,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+102.0,113.38262010078255,5,0,0,0,147,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+120.0,126.50451722509285,5,15,0,0,148,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+128.0,124.19508384008469,5,30,0,0,149,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+152.0,136.3603403526839,5,45,0,0,150,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+199.0,160.80560519020744,6,0,0,0,151,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+169.0,176.59879887859742,6,15,0,0,152,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+160.0,182.35143438054985,6,30,0,0,153,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+216.0,179.0080877277688,6,45,0,0,154,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+207.0,176.6860091431042,7,0,0,0,155,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+204.0,178.279128947246,7,15,0,0,156,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+213.0,182.85606816851262,7,30,0,0,157,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+208.0,186.79086195627548,7,45,0,0,158,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+226.0,176.61833689476836,8,0,0,0,159,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+215.0,200.1483929012345,8,15,0,0,160,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+201.0,197.9444815467894,8,30,0,0,161,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+185.0,189.03301481460576,8,45,0,0,162,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+148.0,126.26204658163294,9,0,0,0,163,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+57.0,141.99715298009255,9,15,0,0,164,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+88.0,106.46083334713447,9,30,0,0,165,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+111.0,104.99561287564698,9,45,0,0,166,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+130.0,101.47566270902107,10,0,0,0,167,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+134.0,102.00263659695379,10,15,0,0,168,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+65.0,96.46924044326721,10,45,0,0,169,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+106.0,90.11531722134539,11,0,0,0,170,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+72.0,88.99489924067953,11,15,0,0,171,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+65.0,86.82106661745819,11,30,0,0,172,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+110.0,87.54311738737091,11,45,0,0,173,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+96.0,91.31598385555435,12,0,0,0,174,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+89.0,90.56185962589359,12,15,0,0,175,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+74.0,91.44495093402367,12,30,0,0,176,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+108.0,89.69470352549985,12,45,0,0,177,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+99.0,105.85836973924228,13,0,0,0,178,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+102.0,113.82776818343524,13,15,0,0,179,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+97.0,111.38255338399581,13,30,0,0,180,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+165.0,109.81073735246908,13,45,0,0,181,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+181.0,122.862414735565,14,15,0,0,182,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+133.0,132.77970343396277,14,30,0,0,183,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+78.0,129.73030489233145,15,0,0,0,184,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+82.0,106.74079260980754,15,15,0,0,185,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+142.0,144.80056028240625,15,30,0,0,186,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+202.0,112.50980470182985,15,45,0,0,187,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+173.0,188.24054005323526,16,0,0,0,188,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+171.0,182.21745244979178,16,15,0,0,189,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+217.0,181.17291160057516,16,30,0,0,190,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+184.0,182.32208688429054,16,45,0,0,191,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+198.0,189.3318716620014,17,0,0,0,192,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+178.0,187.94445931626004,17,15,0,0,193,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+173.0,186.69169117348756,17,30,0,0,194,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+164.0,182.25202869396554,17,45,0,0,195,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+202.0,167.04009798604,18,0,0,0,196,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+214.0,162.96241372307855,18,15,0,0,197,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+146.0,164.7227335544688,18,30,0,0,198,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+141.0,126.93398023639953,18,45,0,0,199,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+100.0,126.85860573455419,19,0,0,0,200,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+150.0,131.94084480855375,19,15,0,0,201,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+112.0,125.47016541411713,19,30,0,0,202,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+123.0,125.49229045739582,19,45,0,0,203,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+118.0,126.09194927764882,20,15,0,0,204,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+120.0,121.133090253673,20,30,0,0,205,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+107.0,117.32625314445413,20,45,0,0,206,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+118.0,131.18819537464225,21,0,0,0,207,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+170.0,126.58535069155795,21,15,0,0,208,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+112.0,123.4028075258699,21,30,0,0,209,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+50.0,84.28330160385825,21,45,0,0,210,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+50.0,43.080882291171,22,0,0,0,211,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+35.0,43.16907326111312,22,15,0,0,212,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+56.0,42.5686145994847,22,30,0,0,213,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+33.0,41.34960954133032,22,45,0,0,214,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,45.050779018703395,23,0,0,0,215,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+56.0,38.55802190728965,23,15,0,0,216,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+48.0,42.771058285145244,23,30,0,0,217,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,39.618874922560686,23,45,0,0,218,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+40.0,41.19944248583144,0,0,1,0,219,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+52.0,40.907406177729506,0,15,1,0,220,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+32.0,40.94322215839505,0,30,1,0,221,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+45.0,43.01491491507252,0,45,1,0,222,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+41.0,42.04449543050033,1,0,1,0,223,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+30.0,43.001238248512294,1,15,1,0,224,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+47.0,43.8099073875499,1,30,1,0,225,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,41.21146296573043,1,45,1,0,226,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+49.0,42.99472200988166,2,0,1,0,227,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+39.0,43.89852598707737,2,15,1,0,228,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+32.0,41.80164079177805,2,30,1,0,229,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+52.0,42.12839452333154,2,45,1,0,230,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+41.0,42.40188528598688,3,0,1,0,231,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+50.0,42.492065739556466,3,15,1,0,232,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+35.0,44.18746858847684,3,30,1,0,233,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+29.0,64.04187565057973,3,45,1,0,234,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+121.0,114.41125277802257,4,0,1,0,235,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+86.0,108.52889363954863,4,15,1,0,236,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+135.0,104.20783027062838,4,30,1,0,237,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+91.0,123.96952897316515,4,45,1,0,238,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+149.0,110.30519074997385,5,0,1,0,239,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+100.0,155.08147890856344,5,15,1,0,240,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+132.0,132.34254673570783,5,30,1,0,241,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+197.0,148.0485387274375,5,45,1,0,242,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+224.0,186.6745816543585,6,0,1,0,243,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+187.0,181.0553795458899,6,15,1,0,244,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+183.0,188.0817331455368,6,30,1,0,245,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+188.0,184.4555874268461,6,45,1,0,246,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+158.0,186.7147007146957,7,0,1,0,247,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+168.0,176.8274060868957,7,15,1,0,248,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+199.0,182.6380469959761,7,30,1,0,249,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+214.0,188.10024328377693,7,45,1,0,250,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+179.0,179.5915791342239,8,0,1,0,251,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+202.0,184.04893217940034,8,15,1,0,252,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+160.0,183.37219255395038,8,30,1,0,253,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+195.0,164.934876161233,8,45,1,0,254,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+142.0,140.35318052534603,9,0,1,0,255,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+93.0,148.62174483444707,9,15,1,0,256,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+132.0,82.95472498729768,9,30,1,0,257,0,0,0,1,0,0,1,1,Missed high-demand,Missed high-demand
+97.0,130.63860579466441,9,45,1,0,258,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+117.0,102.28193856054999,10,0,1,0,259,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+89.0,100.2286426708828,10,15,1,0,260,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+103.0,96.69219895444289,10,30,1,0,261,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+87.0,101.5764169639192,10,45,1,0,262,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+86.0,98.21709206686604,11,0,1,0,263,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+99.0,89.51927910118437,11,15,1,0,264,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+77.0,89.37210197055201,11,30,1,0,265,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+57.0,90.78354127491282,11,45,1,0,266,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+96.0,88.84848712038924,12,0,1,0,267,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+81.0,86.05238389530287,12,15,1,0,268,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+112.0,86.83691233256889,12,30,1,0,269,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+106.0,91.54919208506237,12,45,1,0,270,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+55.0,103.98158398784537,13,0,1,0,271,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+157.0,94.55669006765264,13,15,1,0,272,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+105.0,115.75463564882425,13,30,1,0,273,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+93.0,100.7684254682322,13,45,1,0,274,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+100.0,111.63029074918319,14,0,1,0,275,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+133.0,105.18645039409655,14,15,1,0,276,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+109.0,115.30541713619883,14,30,1,0,277,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+78.0,118.7343006127126,14,45,1,0,278,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+153.0,113.98825653538006,15,0,1,0,279,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+137.0,122.78811981302002,15,15,1,0,280,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+193.0,136.7559558580418,15,45,1,0,281,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+223.0,188.41628033364526,16,0,1,0,282,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+188.0,180.73759996119108,16,15,1,0,283,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+239.0,188.88919496846142,16,30,1,0,284,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+188.0,179.02970945979942,16,45,1,0,285,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+190.0,188.84284527795677,17,0,1,0,286,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+182.0,189.96842764470227,17,15,1,0,287,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+223.0,190.78788715735973,17,30,1,0,288,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+197.0,184.09900242057526,17,45,1,0,289,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+208.0,174.53470510082963,18,0,1,0,290,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+230.0,161.73905653337889,18,15,1,0,291,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+123.0,157.03242348753045,18,30,1,0,292,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+165.0,124.10761211413646,18,45,1,0,293,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+163.0,134.11869073347495,19,0,1,0,294,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+130.0,136.41602608735664,19,15,1,0,295,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+150.0,131.6505860603479,19,30,1,0,296,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+168.0,132.6093579008135,19,45,1,0,297,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+129.0,112.13955752706606,20,0,1,0,298,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+120.0,125.01881762724757,20,15,1,0,299,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+157.0,133.81426234387885,20,30,1,0,300,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+103.0,121.89308862667737,20,45,1,0,301,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+94.0,121.71422964007868,21,0,1,0,302,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+112.0,121.43298730185033,21,15,1,0,303,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+112.0,88.89764040712295,21,30,1,0,304,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+46.0,71.43636242215122,21,45,1,0,305,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+36.0,40.77627943890529,22,0,1,0,306,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+38.0,42.85476248647839,22,15,1,0,307,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+56.0,42.87140988131857,22,30,1,0,308,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+43.0,42.84163744388389,22,45,1,0,309,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+59.0,41.385163658094285,23,0,1,0,310,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+32.0,44.20614766219523,23,15,1,0,311,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+45.0,43.80212676007518,23,30,1,0,312,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+48.0,41.92118235898176,23,45,1,0,313,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+45.0,41.85046755844388,0,0,2,0,314,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+39.0,42.299814449539184,0,15,2,0,315,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+33.0,41.421223390575705,0,30,2,0,316,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,42.2015243990601,0,45,2,0,317,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+50.0,41.11291067791575,1,0,2,0,318,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+29.0,43.45322029606712,1,15,2,0,319,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+36.0,44.52654085243269,1,30,2,0,320,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+47.0,43.691573142236415,1,45,2,0,321,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+33.0,40.70057363566123,2,0,2,0,322,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+33.0,45.35430961542389,2,15,2,0,323,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+46.0,42.15926620038841,2,30,2,0,324,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+60.0,42.47764238996465,2,45,2,0,325,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+53.0,42.72647312615279,3,0,2,0,326,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+58.0,49.29768022142676,3,15,2,0,327,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+27.0,47.76075618891748,3,30,2,0,328,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+38.0,54.38373706239896,3,45,2,0,329,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+80.0,111.68864476065235,4,0,2,0,330,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+117.0,101.69513252643141,4,15,2,0,331,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+131.0,119.37075680495686,4,30,2,0,332,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+126.0,113.98050264807144,4,45,2,0,333,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+107.0,122.84398062319946,5,0,2,0,334,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+136.0,119.37142746137,5,15,2,0,335,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+115.0,136.5473894842112,5,30,2,0,336,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+186.0,141.72410887314467,5,45,2,0,337,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+211.0,185.14161196026572,6,0,2,0,338,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+207.0,180.43664856405084,6,15,2,0,339,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+170.0,185.31939133220442,6,30,2,0,340,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+188.0,184.27404307879883,6,45,2,0,341,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+189.0,187.34253512398664,7,0,2,0,342,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+172.0,190.19577721574285,7,15,2,0,343,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+189.0,178.10303136956406,7,30,2,0,344,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+191.0,190.41173719384446,7,45,2,0,345,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+208.0,185.07910431331828,8,0,2,0,346,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+176.0,185.9444746505066,8,15,2,0,347,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+228.0,185.8921271231123,8,30,2,0,348,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+222.0,188.62903704729797,8,45,2,0,349,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+120.0,132.78668795854514,9,0,2,0,350,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+95.0,107.09867518209764,9,15,2,0,351,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+115.0,102.93710825394783,9,30,2,0,352,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+122.0,109.45250234624467,9,45,2,0,353,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+69.0,105.9210996963247,10,0,2,0,354,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+85.0,98.57548242367386,10,15,2,0,355,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+92.0,99.77729884058004,10,30,2,0,356,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+61.0,117.32556524265506,10,45,2,0,357,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+85.0,92.86926032342326,11,0,2,0,358,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+79.0,84.99562556329525,11,15,2,0,359,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+78.0,88.00868533971419,11,30,2,0,360,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+79.0,87.78795594537426,11,45,2,0,361,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+106.0,89.18916314697348,12,0,2,0,362,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+70.0,91.39234643941006,12,15,2,0,363,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+79.0,85.34963787675096,12,30,2,0,364,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+74.0,86.1917366173061,12,45,2,0,365,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+117.0,99.44566446033078,13,0,2,0,366,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+173.0,108.78570599120484,13,15,2,0,367,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+165.0,143.7430578176904,13,30,2,0,368,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+63.0,124.90446661109365,14,0,2,0,369,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+155.0,123.9232275730682,14,15,2,0,370,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+132.0,159.6409296204891,15,0,2,0,371,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+157.0,150.16696454457647,15,15,2,0,372,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+196.0,129.05686298312932,15,45,2,0,373,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+200.0,190.85826127926427,16,0,2,0,374,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+194.0,186.44709587666125,16,15,2,0,375,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+186.0,184.16620763901946,16,30,2,0,376,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+222.0,185.78929409447275,16,45,2,0,377,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+207.0,187.7823889156598,17,0,2,0,378,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+189.0,189.1768887420675,17,15,2,0,379,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+191.0,191.0261058337939,17,30,2,0,380,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+195.0,191.66898918037728,17,45,2,0,381,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+193.0,176.6786916739881,18,0,2,0,382,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+174.0,163.48053419541725,18,15,2,0,383,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+126.0,151.50985230879905,18,30,2,0,384,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+141.0,122.89248160078398,18,45,2,0,385,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+149.0,121.05726421995088,19,0,2,0,386,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+118.0,127.20064574341211,19,15,2,0,387,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+148.0,124.52855288087174,19,30,2,0,388,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+145.0,127.28077927731822,19,45,2,0,389,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+142.0,128.27649434870438,20,30,2,0,390,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+124.0,131.34939139689976,20,45,2,0,391,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+110.0,123.23949341128653,21,0,2,0,392,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+140.0,134.27378131786244,21,15,2,0,393,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+127.0,104.75462191461607,21,30,2,0,394,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+57.0,85.02081975877937,21,45,2,0,395,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+47.0,43.294106851809936,22,0,2,0,396,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+27.0,41.36247443983155,22,15,2,0,397,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+37.0,47.87017360246782,22,30,2,0,398,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+47.0,41.43053557081462,22,45,2,0,399,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+46.0,42.66976015849393,23,0,2,0,400,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+35.0,42.70935904813271,23,15,2,0,401,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+33.0,41.93253747771831,23,30,2,0,402,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+56.0,42.921873506876636,23,45,2,0,403,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,40.95336921900724,0,0,3,0,404,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+56.0,41.46759821905727,0,15,3,0,405,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+38.0,41.81197600571514,0,30,3,0,406,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+41.0,41.093203431588954,0,45,3,0,407,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+56.0,41.73860671523158,1,0,3,0,408,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+26.0,42.51632729205891,1,15,3,0,409,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+27.0,43.806892048374095,1,30,3,0,410,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+54.0,42.29228851649057,1,45,3,0,411,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+48.0,40.95953213129213,2,0,3,0,412,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+53.0,43.16629672755168,2,15,3,0,413,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+57.0,44.639155933854575,2,30,3,0,414,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+28.0,43.713486260985654,2,45,3,0,415,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+38.0,38.77482910723345,3,0,3,0,416,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+38.0,44.459254449690064,3,15,3,0,417,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+35.0,39.60800878085973,3,30,3,0,418,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+35.0,47.961905979297626,3,45,3,0,419,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+87.0,115.17693627296948,4,0,3,0,420,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+110.0,91.82790320498114,4,15,3,0,421,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+155.0,111.01987662367566,4,30,3,0,422,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+93.0,138.39736257228182,4,45,3,0,423,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+145.0,132.31610782331762,5,0,3,0,424,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+136.0,134.97857657314455,5,15,3,0,425,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+129.0,140.86768560483816,5,30,3,0,426,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+204.0,138.25346264728472,5,45,3,0,427,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+210.0,182.87421012862796,6,0,3,0,428,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+198.0,182.99377340042986,6,15,3,0,429,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+204.0,180.28243838113835,6,30,3,0,430,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+167.0,193.78322407700168,6,45,3,0,431,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+192.0,181.08140568496373,7,0,3,0,432,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+225.0,188.11629701095472,7,15,3,0,433,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+170.0,183.02150229218924,7,30,3,0,434,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+166.0,168.8425308235642,7,45,3,0,435,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+200.0,189.02781251310026,8,15,3,0,436,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+150.0,180.46898312023194,8,30,3,0,437,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+125.0,124.87363030887565,9,0,3,0,438,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+76.0,103.87988515572683,9,30,3,0,439,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+112.0,121.87969990025692,9,45,3,0,440,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+134.0,94.55268952503926,10,15,3,0,441,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+70.0,105.60576766850332,10,30,3,0,442,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+80.0,96.8070413136244,10,45,3,0,443,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+101.0,92.0910928966893,11,0,3,0,444,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+72.0,92.97894515520753,11,15,3,0,445,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+94.0,87.65914976358017,11,30,3,0,446,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+94.0,87.83913157126725,11,45,3,0,447,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+75.0,91.46578606356636,12,0,3,0,448,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+104.0,87.78007444562222,12,15,3,0,449,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+88.0,89.40266324903541,12,30,3,0,450,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+70.0,91.11130768719869,12,45,3,0,451,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+130.0,104.68520406526898,13,0,3,0,452,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+176.0,112.05855369130572,13,15,3,0,453,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+134.0,149.37843153043573,13,30,3,0,454,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+107.0,131.8756641966707,13,45,3,0,455,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+105.0,120.56265299609223,14,0,3,0,456,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+86.0,108.52108926636761,14,15,3,0,457,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+80.0,96.370798615276,14,30,3,0,458,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+76.0,125.83530740001044,14,45,3,0,459,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+81.0,133.7217518516009,15,0,3,0,460,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+135.0,127.71125756879609,15,15,3,0,461,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+155.0,112.85917682084143,15,30,3,0,462,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+223.0,151.8997300652152,15,45,3,0,463,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+203.0,181.39030164489057,16,0,3,0,464,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+185.0,191.02888949071684,16,15,3,0,465,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+173.0,186.35086619335925,16,30,3,0,466,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+151.0,191.69087124416689,16,45,3,0,467,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+228.0,186.7501552284499,17,15,3,0,468,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+203.0,182.76994387961165,17,30,3,0,469,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+216.0,186.8908369046327,17,45,3,0,470,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+216.0,170.65489438733442,18,0,3,0,471,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+165.0,162.2848582898277,18,15,3,0,472,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+139.0,132.26554938520903,19,0,3,0,473,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+136.0,125.58435775230632,19,30,3,0,474,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+119.0,121.53522434002468,19,45,3,0,475,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+123.0,118.8038387053083,20,0,3,0,476,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+128.0,123.14671879697106,20,15,3,0,477,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+165.0,125.27062179922338,21,0,3,0,478,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+41.0,86.13481065681967,21,45,3,0,479,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+41.0,44.052498097929465,22,0,3,0,480,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+24.0,42.72557063540571,22,15,3,0,481,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+40.0,45.747475977052126,22,30,3,0,482,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+32.0,41.89153711854149,22,45,3,0,483,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+36.0,42.578143837141106,23,0,3,0,484,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+53.0,44.610874138793186,23,15,3,0,485,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+38.0,42.355405776197784,23,30,3,0,486,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+45.0,41.27932921607118,23,45,3,0,487,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+39.0,41.994204628549994,0,0,4,0,488,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+50.0,41.652154945683066,0,15,4,0,489,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+30.0,43.04781837200141,0,30,4,0,490,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+27.0,42.383186978359824,0,45,4,0,491,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+52.0,42.46032852037832,1,0,4,0,492,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+56.0,40.99193659685465,1,15,4,0,493,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+42.0,43.033061786383634,1,30,4,0,494,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+28.0,43.70739244020526,1,45,4,0,495,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+37.0,45.3514810339242,2,0,4,0,496,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,41.139718232151175,2,15,4,0,497,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+48.0,43.30337076607041,2,30,4,0,498,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+37.0,43.7721560867506,2,45,4,0,499,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+50.0,44.59005933481276,3,0,4,0,500,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+52.0,44.91329401049452,3,15,4,0,501,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+33.0,45.75779810999182,3,30,4,0,502,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+32.0,48.133960982972546,3,45,4,0,503,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+51.0,89.64665991455098,4,0,4,0,504,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+70.0,84.25390807739984,4,15,4,0,505,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+105.0,91.16350656476578,4,30,4,0,506,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+63.0,109.70132408773419,4,45,4,0,507,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+91.0,80.09713903073465,5,0,4,0,508,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+63.0,102.3048994031757,5,15,4,0,509,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+80.0,103.39567029755341,5,30,4,0,510,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+101.0,100.88409806764535,5,45,4,0,511,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+85.0,89.94181778312395,6,0,4,0,512,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+65.0,86.65550396314148,6,15,4,0,513,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+116.0,85.65697872541347,6,30,4,0,514,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+51.0,98.01723782515964,6,45,4,0,515,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+102.0,92.54790669176059,7,0,4,0,516,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+112.0,82.81031773572994,7,15,4,0,517,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+81.0,104.83482066059474,7,30,4,0,518,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+82.0,100.58478100592909,7,45,4,0,519,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+57.0,95.48203790248786,8,0,4,0,520,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+98.0,87.62892839241906,8,15,4,0,521,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+94.0,89.28685720456814,8,30,4,0,522,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+69.0,91.87320886327268,8,45,4,0,523,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+233.0,112.3778465758,9,0,4,0,524,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+226.0,230.60294157078977,9,15,4,0,525,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+265.0,191.02382738841888,9,30,4,0,526,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+200.0,223.3670042388168,9,45,4,0,527,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+234.0,245.94579086483688,10,0,4,0,528,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+222.0,238.26036939449435,10,15,4,0,529,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+207.0,210.09515768416543,10,30,4,0,530,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+220.0,219.47105630809565,10,45,4,0,531,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+247.0,199.75147861595732,11,0,4,0,532,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+231.0,229.89017406204908,11,15,4,0,533,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+237.0,229.98614448051947,11,30,4,0,534,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+233.0,233.3734674875778,11,45,4,0,535,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+206.0,228.0613403679653,12,0,4,0,536,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+226.0,215.3666187515598,12,15,4,0,537,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+201.0,228.62576489156262,12,30,4,0,538,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+225.0,198.100620957195,12,45,4,0,539,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+254.0,180.9081634761958,13,0,4,0,540,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+225.0,234.31267567155064,13,15,4,0,541,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+219.0,231.56656381118881,13,30,4,0,542,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+219.0,214.81420893458397,13,45,4,0,543,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+246.0,218.33544716620264,14,0,4,0,544,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+236.0,235.27977174581952,14,15,4,0,545,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+212.0,239.59143068043076,14,30,4,0,546,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+251.0,229.99343427405927,14,45,4,0,547,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+104.0,178.3104444444443,15,0,4,0,548,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+104.0,113.14636403176934,15,15,4,0,549,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+84.0,110.39771154339671,15,30,4,0,550,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+123.0,111.94288210091719,15,45,4,0,551,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+85.0,107.27881001331319,16,0,4,0,552,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+92.0,107.51124225144252,16,15,4,0,553,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+111.0,108.09249761302688,16,30,4,0,554,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+128.0,109.90333947814716,16,45,4,0,555,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+82.0,108.22462085286703,17,0,4,0,556,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+108.0,109.1619130144164,17,15,4,0,557,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+104.0,102.81552085977434,17,30,4,0,558,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+90.0,115.49177085959016,17,45,4,0,559,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+93.0,108.93945306733481,18,0,4,0,560,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+114.0,108.47307646881596,18,15,4,0,561,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+124.0,109.95089341762403,18,30,4,0,562,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+117.0,102.27229496901607,18,45,4,0,563,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+55.0,102.19824890426843,19,0,4,0,564,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+51.0,79.83041672735021,19,15,4,0,565,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+47.0,51.154383486934364,19,30,4,0,566,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+65.0,54.49080718586966,19,45,4,0,567,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+54.0,54.76283045426794,20,0,4,0,568,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+50.0,46.1326518759019,20,15,4,0,569,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+61.0,52.591404928404906,20,30,4,0,570,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+57.0,56.58068064574313,20,45,4,0,571,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+46.0,63.739848882300464,21,0,4,0,572,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+43.0,55.12197607686012,21,15,4,0,573,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+44.0,44.640906510310515,21,30,4,0,574,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+39.0,51.838714813618324,21,45,4,0,575,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+58.0,54.95760036579638,22,0,4,0,576,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+44.0,42.748058113025174,22,15,4,0,577,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+41.0,40.07881977459704,22,30,4,0,578,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+53.0,41.511329987631754,22,45,4,0,579,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+41.0,43.15965748198656,23,0,4,0,580,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+34.0,41.280231263933665,23,15,4,0,581,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+58.0,43.43316060988732,23,30,4,0,582,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+40.0,40.94329339916653,23,45,4,0,583,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+36.0,41.581326152910954,0,0,5,1,584,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+31.0,42.16336708897478,0,15,5,1,585,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+40.0,42.304502931049974,0,30,5,1,586,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+30.0,42.430449695916,0,45,5,1,587,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+39.0,45.66293120915927,1,0,5,1,588,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+30.0,41.045509599347604,1,15,5,1,589,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+43.0,43.37861606567516,1,30,5,1,590,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+27.0,42.28434966161978,1,45,5,1,591,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+22.0,44.70353315333964,2,0,5,1,592,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+41.0,43.550889353752275,2,15,5,1,593,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+27.0,41.81107856137387,2,30,5,1,594,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+48.0,44.93305052929407,2,45,5,1,595,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,43.70935831476242,3,0,5,1,596,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+63.0,43.51727938480398,3,15,5,1,597,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+51.0,48.87019049676785,3,30,5,1,598,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,55.708077256077246,3,45,5,1,599,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+95.0,107.97264985900105,4,0,5,1,600,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+148.0,99.5896397966339,4,15,5,1,601,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+143.0,131.6326751499605,4,30,5,1,602,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+138.0,131.82129959845247,4,45,5,1,603,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+142.0,137.38313628574755,5,0,5,1,604,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+152.0,132.63574180826458,5,15,5,1,605,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+113.0,153.99201535082182,5,30,5,1,606,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+168.0,137.36042061056003,5,45,5,1,607,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+225.0,177.40719558712692,6,0,5,1,608,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+171.0,184.32658630805318,6,15,5,1,609,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+188.0,183.85801249409096,6,30,5,1,610,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+204.0,187.12441873390813,6,45,5,1,611,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+185.0,188.2861969011272,7,0,5,1,612,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+180.0,177.43787057189414,7,15,5,1,613,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+186.0,182.6694105384964,7,30,5,1,614,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+233.0,183.81103531031675,7,45,5,1,615,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+156.0,186.309045830412,8,0,5,1,616,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+171.0,179.22639812852856,8,30,5,1,617,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+218.0,187.2216009877115,8,45,5,1,618,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+80.0,117.21084656260578,9,0,5,1,619,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+142.0,104.584657772263,9,15,5,1,620,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+115.0,88.33528605367573,10,15,5,1,621,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+122.0,98.3303897059363,10,30,5,1,622,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+87.0,94.6284454327403,11,0,5,1,623,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+78.0,89.156697701865,11,15,5,1,624,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+80.0,91.99628415428913,11,30,5,1,625,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+77.0,87.26045854628642,11,45,5,1,626,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+102.0,89.41071436635471,12,0,5,1,627,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+86.0,88.27206420788026,12,15,5,1,628,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+93.0,89.73081517774932,12,30,5,1,629,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+69.0,90.8353150283735,12,45,5,1,630,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+113.0,100.34296976963986,13,0,5,1,631,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+185.0,118.8264628141287,13,30,5,1,632,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+114.0,136.71796531111994,13,45,5,1,633,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+79.0,117.17495428828197,14,0,5,1,634,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+156.0,115.9093795443213,14,15,5,1,635,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+121.0,122.99050873523449,14,30,5,1,636,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+169.0,109.56192798250045,14,45,5,1,637,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+193.0,146.63547285465708,15,0,5,1,638,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+95.0,155.50245923583063,15,15,5,1,639,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+140.0,125.74483509876886,15,30,5,1,640,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+188.0,126.89557697636887,15,45,5,1,641,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+172.0,188.29591628599619,16,0,5,1,642,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+189.0,187.12051599170306,16,15,5,1,643,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+180.0,182.04213276116275,16,30,5,1,644,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+204.0,177.34925547066706,16,45,5,1,645,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+173.0,191.7507351289978,17,0,5,1,646,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+151.0,187.22426213719046,17,15,5,1,647,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+237.0,178.40582160678423,17,30,5,1,648,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+202.0,186.76307323651213,17,45,5,1,649,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+171.0,177.67566315321773,18,0,5,1,650,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+198.0,163.92496410943284,18,15,5,1,651,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+136.0,153.68230766409434,18,30,5,1,652,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+155.0,142.48541059976316,18,45,5,1,653,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+105.0,128.54509624429573,19,0,5,1,654,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+150.0,131.88738586286212,19,15,5,1,655,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+132.0,123.41679652628851,19,30,5,1,656,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+158.0,123.03321948078337,19,45,5,1,657,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+132.0,122.61133607956828,20,0,5,1,658,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+143.0,133.0431330666315,20,15,5,1,659,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+127.0,124.53282394283265,20,30,5,1,660,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+114.0,123.2653060089839,20,45,5,1,661,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+132.0,122.47115877884353,21,0,5,1,662,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+112.0,127.85482534092998,21,15,5,1,663,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+162.0,91.44703653832323,21,30,5,1,664,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+24.0,113.51329240681183,21,45,5,1,665,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+50.0,49.08384762746155,22,0,5,1,666,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+36.0,41.38256433838884,22,15,5,1,667,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+37.0,43.09948873041097,22,30,5,1,668,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+57.0,44.786878852335306,22,45,5,1,669,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+58.0,40.62584159920932,23,0,5,1,670,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+48.0,41.3947648406983,23,15,5,1,671,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+35.0,41.231334209522316,23,30,5,1,672,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+56.0,42.32888408883816,23,45,5,1,673,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+30.0,39.70939640376921,0,0,6,1,674,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+38.0,43.397574442857575,0,15,6,1,675,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+52.0,40.40434241569555,0,30,6,1,676,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+54.0,42.14479015735348,0,45,6,1,677,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+31.0,43.15355201056297,1,0,6,1,678,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,48.58830962553972,1,15,6,1,679,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,39.020257708596425,1,30,6,1,680,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+54.0,43.615008873157855,1,45,6,1,681,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+42.0,42.75746496918002,2,0,6,1,682,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+54.0,41.250602601992426,2,15,6,1,683,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+33.0,43.77768495202714,2,30,6,1,684,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+49.0,46.91057605928606,2,45,6,1,685,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+57.0,46.125798180763034,3,0,6,1,686,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+31.0,43.467146473673836,3,15,6,1,687,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,42.35538315321005,3,30,6,1,688,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+35.0,50.47217037807896,3,45,6,1,689,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+114.0,104.47945328136187,4,0,6,1,690,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+151.0,100.08300554448736,4,15,6,1,691,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+88.0,134.597743971378,4,30,6,1,692,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+137.0,125.0581045539805,4,45,6,1,693,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+118.0,129.20005599785,5,0,6,1,694,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+137.0,136.70736337589946,5,15,6,1,695,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+104.0,143.894058215678,5,30,6,1,696,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+222.0,121.14156716984019,5,45,6,1,697,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+196.0,185.3751792676864,6,0,6,1,698,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+191.0,189.73619173159622,6,15,6,1,699,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+167.0,183.31115467351032,6,30,6,1,700,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+155.0,178.60433831366348,6,45,6,1,701,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+155.0,169.0434214604391,7,0,6,1,702,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+172.0,192.42781332036608,7,30,6,1,703,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+170.0,186.16489099586593,7,45,6,1,704,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+169.0,184.5815674683597,8,0,6,1,705,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+181.0,183.53954392720982,8,15,6,1,706,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+213.0,170.43422489488347,8,30,6,1,707,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+178.0,185.05971222106098,8,45,6,1,708,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+69.0,124.53678469770415,9,0,6,1,709,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+135.0,101.48590878408628,9,15,6,1,710,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+104.0,122.98256598491167,9,30,6,1,711,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+82.0,102.57393105449138,9,45,6,1,712,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+149.0,91.67857934188018,10,0,6,1,713,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+83.0,96.9650514420734,10,45,6,1,714,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+102.0,91.85572011052649,11,0,6,1,715,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+91.0,93.12605533304267,11,15,6,1,716,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+101.0,92.0217593861559,11,30,6,1,717,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+74.0,89.55040326326396,11,45,6,1,718,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+81.0,90.64343122785621,12,0,6,1,719,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+81.0,88.17485961423003,12,15,6,1,720,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+61.0,89.0774352286327,12,30,6,1,721,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+55.0,89.50432495796538,12,45,6,1,722,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+104.0,95.56390384183176,13,0,6,1,723,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+160.0,105.31620881666082,13,15,6,1,724,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+185.0,159.52486223775435,13,45,6,1,725,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+108.0,152.58704443994228,14,0,6,1,726,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+131.0,115.65296231019063,14,15,6,1,727,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+118.0,122.51717643157639,14,30,6,1,728,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+154.0,111.49469671802373,14,45,6,1,729,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+131.0,153.35100921176695,15,0,6,1,730,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+121.0,146.0735024064078,15,15,6,1,731,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+182.0,122.61481707002949,15,45,6,1,732,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+222.0,183.4544530725732,16,0,6,1,733,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+186.0,185.6108577198697,16,15,6,1,734,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+207.0,194.16353476592238,16,30,6,1,735,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+187.0,188.6593816167275,16,45,6,1,736,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+194.0,192.13633570115937,17,0,6,1,737,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+221.0,186.4671995945282,17,15,6,1,738,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+163.0,188.9158960917005,17,30,6,1,739,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+193.0,173.38955217323308,18,0,6,1,740,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+213.0,159.67819233407684,18,15,6,1,741,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+135.0,147.15882890062076,18,30,6,1,742,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+157.0,132.35754965894955,18,45,6,1,743,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+150.0,129.8377729941492,19,0,6,1,744,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+163.0,131.82115150946956,19,15,6,1,745,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+149.0,131.60990894917128,19,30,6,1,746,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+101.0,134.64150324958072,19,45,6,1,747,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+136.0,132.70269465983395,20,0,6,1,748,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+162.0,130.0395803667492,20,15,6,1,749,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+157.0,126.30454945227763,20,30,6,1,750,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+134.0,104.36019360282373,21,0,6,1,751,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+127.0,126.11771196118066,21,15,6,1,752,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+42.0,109.53076582285601,21,45,6,1,753,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+50.0,42.089639835727084,22,0,6,1,754,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+49.0,44.3458641533449,22,15,6,1,755,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+45.0,42.84226637614743,22,30,6,1,756,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,41.68583623506184,22,45,6,1,757,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+37.0,41.80684554940432,23,0,6,1,758,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+44.0,42.04601978012097,23,15,6,1,759,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+40.0,43.01627516926168,23,30,6,1,760,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+40.0,41.40834287225931,23,45,6,1,761,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+38.0,39.39197450831017,0,0,0,0,762,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+40.0,41.81072667520462,0,15,0,0,763,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+43.0,44.279825360789225,0,30,0,0,764,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+53.0,39.83096761774488,0,45,0,0,765,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+51.0,43.78589655953358,1,0,0,0,766,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+34.0,42.32815246004113,1,15,0,0,767,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+47.0,42.323216864672034,1,30,0,0,768,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+36.0,41.354200100544304,1,45,0,0,769,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+25.0,42.44769153134331,2,0,0,0,770,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+45.0,43.3160882913709,2,15,0,0,771,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+32.0,39.2721675308922,2,30,0,0,772,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+36.0,42.85209025593691,2,45,0,0,773,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+57.0,43.64784838909737,3,0,0,0,774,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+50.0,44.54487285231751,3,15,0,0,775,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+44.0,44.77707314593983,3,30,0,0,776,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+43.0,52.62947544661704,3,45,0,0,777,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+112.0,105.20700109549493,4,0,0,0,778,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+135.0,106.7632020587659,4,15,0,0,779,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+132.0,131.2823120103359,4,30,0,0,780,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+118.0,125.83973285215775,4,45,0,0,781,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+107.0,123.02763958023662,5,0,0,0,782,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+91.0,119.08323329912223,5,15,0,0,783,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+111.0,131.21849624136618,5,30,0,0,784,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+224.0,136.46676808924795,5,45,0,0,785,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+176.0,187.0371760845281,6,0,0,0,786,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+182.0,174.38230060100796,6,15,0,0,787,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+191.0,183.47568163644002,6,30,0,0,788,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+188.0,184.8077765853863,6,45,0,0,789,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+213.0,182.73024268034908,7,0,0,0,790,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+190.0,182.91139879674483,7,15,0,0,791,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+198.0,177.45861115768054,7,30,0,0,792,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+184.0,181.70699852104062,7,45,0,0,793,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+180.0,184.05178380450786,8,0,0,0,794,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+171.0,182.5608281460958,8,15,0,0,795,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+208.0,183.70525410101203,8,30,0,0,796,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+190.0,181.73068288405608,8,45,0,0,797,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+129.0,136.05088228979506,9,0,0,0,798,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+73.0,95.37240782723813,9,30,0,0,799,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+148.0,95.120614027633,9,45,0,0,800,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+180.0,102.24765368513627,10,0,0,0,801,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+90.0,114.73915754856945,10,15,0,0,802,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+108.0,85.54095501357071,10,30,0,0,803,0,0,0,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+109.0,75.79193157354635,10,45,0,0,804,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+55.0,94.53727781653375,11,0,0,0,805,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+86.0,95.05195942182004,11,15,0,0,806,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+61.0,88.81068483776406,11,30,0,0,807,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+83.0,86.31755267436458,11,45,0,0,808,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+80.0,86.58358127931731,12,0,0,0,809,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+81.0,88.23675111853032,12,15,0,0,810,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+71.0,87.71042769876034,12,30,0,0,811,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+105.0,87.7992815778297,12,45,0,0,812,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+88.0,102.254568183953,13,0,0,0,813,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+148.0,113.55395335722237,13,15,0,0,814,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+78.0,112.7284671173302,13,30,0,0,815,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+141.0,98.22315781350477,13,45,0,0,816,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+101.0,107.60435843741124,14,15,0,0,817,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+126.0,114.1237755280637,14,30,0,0,818,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+144.0,118.21307554120726,14,45,0,0,819,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+133.0,132.0581965674944,15,0,0,0,820,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+71.0,133.41533094629918,15,15,0,0,821,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+119.0,141.1590503213138,15,30,0,0,822,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+210.0,131.31770378000058,15,45,0,0,823,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+176.0,185.56378624697646,16,0,0,0,824,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+204.0,185.8794767295325,16,15,0,0,825,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+210.0,185.5298110502844,16,30,0,0,826,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+196.0,186.67050840189148,16,45,0,0,827,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+202.0,184.32282130314113,17,0,0,0,828,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+181.0,192.6747588715074,17,15,0,0,829,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+199.0,191.99969112547197,17,30,0,0,830,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+214.0,187.8677382886603,17,45,0,0,831,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+203.0,174.66567619871736,18,0,0,0,832,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+198.0,158.79560616216847,18,15,0,0,833,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+108.0,157.8166948724222,18,30,0,0,834,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+141.0,132.02165704637997,18,45,0,0,835,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+160.0,126.53337214253587,19,15,0,0,836,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+93.0,128.1077427089448,19,30,0,0,837,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+96.0,129.86077023964205,19,45,0,0,838,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+93.0,126.38155763843758,20,0,0,0,839,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+108.0,116.27405260491722,20,15,0,0,840,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+126.0,107.00536971639941,20,30,0,0,841,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+164.0,117.12466024938487,20,45,0,0,842,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+121.0,120.70618577265469,21,15,0,0,843,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+136.0,102.06445243769627,21,30,0,0,844,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+42.0,112.90714972760928,21,45,0,0,845,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+25.0,40.6870707812543,22,0,0,0,846,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,46.74290554508138,22,15,0,0,847,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+61.0,39.85820343301994,22,30,0,0,848,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+51.0,45.81597089670032,22,45,0,0,849,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+35.0,42.489710177378875,23,0,0,0,850,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+53.0,43.42067790247585,23,15,0,0,851,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+57.0,41.105037208419006,23,30,0,0,852,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+40.0,42.699722130222305,23,45,0,0,853,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+42.0,42.416797929143804,0,0,1,0,854,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+46.0,41.54923770506476,0,15,1,0,855,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+34.0,40.282716554162505,0,30,1,0,856,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+39.0,40.73287225871965,0,45,1,0,857,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+56.0,41.436496568802475,1,0,1,0,858,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+45.0,42.41897741919332,1,15,1,0,859,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+38.0,41.39530475047209,1,30,1,0,860,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+52.0,41.436664977144844,1,45,1,0,861,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+58.0,42.94566976435588,2,0,1,0,862,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+33.0,43.84201468721836,2,15,1,0,863,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,42.39512053782758,2,30,1,0,864,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+32.0,42.01274043707219,2,45,1,0,865,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+51.0,37.46574678237685,3,0,1,0,866,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+48.0,44.57350774978745,3,15,1,0,867,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+52.0,44.1709407695973,3,30,1,0,868,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+53.0,57.879884721576374,3,45,1,0,869,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+126.0,111.4171603229899,4,0,1,0,870,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+95.0,113.11445089014049,4,15,1,0,871,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+116.0,107.18083680402182,4,30,1,0,872,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+100.0,118.51807598963589,4,45,1,0,873,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+114.0,101.74282055255365,5,0,1,0,874,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+86.0,125.33201606429171,5,15,1,0,875,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+149.0,130.33555992670307,5,30,1,0,876,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+173.0,151.56904706787384,5,45,1,0,877,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+201.0,183.67844652525307,6,0,1,0,878,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+217.0,181.48460881450717,6,15,1,0,879,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+191.0,179.26556697334252,6,30,1,0,880,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+207.0,183.9537810018719,6,45,1,0,881,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+183.0,193.42096729894612,7,0,1,0,882,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+206.0,188.48958571940554,7,15,1,0,883,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+170.0,179.8917005358999,7,30,1,0,884,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+167.0,179.21677967970027,7,45,1,0,885,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+176.0,181.11358424658192,8,0,1,0,886,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+161.0,182.68804994297193,8,15,1,0,887,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+207.0,180.99877788875082,8,45,1,0,888,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+145.0,130.70245667370705,9,0,1,0,889,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+78.0,145.7621064291072,9,15,1,0,890,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+90.0,92.9290436996298,9,30,1,0,891,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+112.0,105.16330380404848,9,45,1,0,892,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+83.0,93.86800990021024,10,15,1,0,893,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+142.0,90.27029527521985,10,30,1,0,894,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+109.0,111.40197014142592,10,45,1,0,895,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+70.0,102.13604480598542,11,0,1,0,896,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+83.0,88.6879983007208,11,15,1,0,897,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+76.0,90.205163832674,11,30,1,0,898,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+55.0,91.35421609080848,11,45,1,0,899,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+67.0,91.67382373844231,12,0,1,0,900,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+58.0,83.62230775386799,12,15,1,0,901,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+111.0,85.4412811469817,12,30,1,0,902,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+67.0,84.32043636010307,12,45,1,0,903,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+147.0,96.53671784439616,13,0,1,0,904,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+174.0,112.89858692731275,13,15,1,0,905,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+173.0,142.63779490293464,13,30,1,0,906,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+153.0,145.292565831412,13,45,1,0,907,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+133.0,164.42570616037602,14,0,1,0,908,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+177.0,141.33452510083987,14,45,1,0,909,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+144.0,150.08794792669534,15,0,1,0,910,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+81.0,163.86632139134534,15,15,1,0,911,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+176.0,123.56501811703176,15,30,1,0,912,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+200.0,162.41944137331993,15,45,1,0,913,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+208.0,190.44243516087747,16,0,1,0,914,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+175.0,183.20615560819797,16,15,1,0,915,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+195.0,189.71370613180835,16,30,1,0,916,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+163.0,189.5013309652296,16,45,1,0,917,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+213.0,189.99439927622967,17,15,1,0,918,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+176.0,180.74104622076226,17,30,1,0,919,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+207.0,188.36746581695195,17,45,1,0,920,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+166.0,166.21026644722966,18,0,1,0,921,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+104.0,163.68943502943398,18,30,1,0,922,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+92.0,133.79302565780532,18,45,1,0,923,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+141.0,126.00275847604593,19,0,1,0,924,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+129.0,126.28028303528761,19,15,1,0,925,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+118.0,121.88377482780481,20,0,1,0,926,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+85.0,121.91802764244754,20,15,1,0,927,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+116.0,126.17464178996077,20,30,1,0,928,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+156.0,127.72240250475078,20,45,1,0,929,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+133.0,119.64569819764252,21,0,1,0,930,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+114.0,128.3246425519412,21,15,1,0,931,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+137.0,92.54048560031599,21,30,1,0,932,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+42.0,103.9446663704345,21,45,1,0,933,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+54.0,40.32847043362736,22,0,1,0,934,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+34.0,44.29641711247495,22,15,1,0,935,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+45.0,46.17276270334751,22,30,1,0,936,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+59.0,40.961586134162815,22,45,1,0,937,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+45.0,43.85474016409659,23,0,1,0,938,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+44.0,40.58946875509543,23,15,1,0,939,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+43.0,41.8015817762775,23,30,1,0,940,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+40.0,41.9932715975501,23,45,1,0,941,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+53.0,42.770205402106875,0,0,2,0,942,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+31.0,42.96293047688121,0,15,2,0,943,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+34.0,44.8781683951833,0,30,2,0,944,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+32.0,42.29267458266622,0,45,2,0,945,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+37.0,42.45057645763957,1,0,2,0,946,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+45.0,46.521298659146694,1,15,2,0,947,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+32.0,42.12804312022672,1,30,2,0,948,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+37.0,48.14244467336637,1,45,2,0,949,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,41.316624495977074,2,0,2,0,950,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+33.0,43.152636793994304,2,15,2,0,951,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+27.0,44.10481227201,2,30,2,0,952,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+40.0,43.2968042785896,2,45,2,0,953,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+28.0,42.87776639448543,3,0,2,0,954,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+45.0,41.32454948342975,3,15,2,0,955,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+54.0,46.17315127705024,3,30,2,0,956,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+47.0,78.86934943457385,3,45,2,0,957,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+142.0,109.43574895712977,4,0,2,0,958,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+99.0,130.236847412188,4,15,2,0,959,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+147.0,109.50333434828458,4,30,2,0,960,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+136.0,130.46368912897142,4,45,2,0,961,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+109.0,131.3847854396668,5,0,2,0,962,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+120.0,131.83363802193077,5,15,2,0,963,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+140.0,116.17890838042538,5,30,2,0,964,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+195.0,137.1268610262203,5,45,2,0,965,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+186.0,185.05274279334958,6,0,2,0,966,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+162.0,187.31796701534861,6,15,2,0,967,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+177.0,190.23844175907067,6,45,2,0,968,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+165.0,194.26828441014808,7,0,2,0,969,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+191.0,185.71193242045786,7,30,2,0,970,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+211.0,187.69138894105643,7,45,2,0,971,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+213.0,182.58592201082286,8,0,2,0,972,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+164.0,192.6230394431168,8,15,2,0,973,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+148.0,186.03703593892126,8,45,2,0,974,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+112.0,163.9798521770481,9,0,2,0,975,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+145.0,99.69057440435544,9,15,2,0,976,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+83.0,135.25984073738312,9,30,2,0,977,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+116.0,98.3190025185523,9,45,2,0,978,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+141.0,104.4961076390729,10,30,2,0,979,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+75.0,91.16934488573925,11,0,2,0,980,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+75.0,93.8243733958477,11,15,2,0,981,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+66.0,91.60347253374252,11,30,2,0,982,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+111.0,91.75864590195012,11,45,2,0,983,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+107.0,84.8866805292136,12,0,2,0,984,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+80.0,93.05512091852258,12,15,2,0,985,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+100.0,90.11865654135768,12,30,2,0,986,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+77.0,92.20677556545816,12,45,2,0,987,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+80.0,107.26885716662275,13,0,2,0,988,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+92.0,115.25786306599296,13,15,2,0,989,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+152.0,120.25441253066636,13,30,2,0,990,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+127.0,123.51019512509785,13,45,2,0,991,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+112.0,110.44609524237181,14,0,2,0,992,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+174.0,114.28004893409933,14,15,2,0,993,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+86.0,134.97378418323632,14,30,2,0,994,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+130.0,123.73785050163362,14,45,2,0,995,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+101.0,117.6007327470857,15,0,2,0,996,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+93.0,118.9892947821675,15,15,2,0,997,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+113.0,131.51180250463528,15,30,2,0,998,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+189.0,128.3801891255495,15,45,2,0,999,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+171.0,176.09568215728166,16,0,2,0,1000,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+220.0,185.13676431330308,16,15,2,0,1001,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+221.0,182.6604364503523,16,30,2,0,1002,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+205.0,183.83187555079638,16,45,2,0,1003,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+188.0,187.1839078694576,17,0,2,0,1004,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+176.0,194.15651345995292,17,15,2,0,1005,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+214.0,190.08636441663558,17,30,2,0,1006,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+179.0,188.43450908722275,17,45,2,0,1007,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+206.0,176.9185698452802,18,0,2,0,1008,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+199.0,170.10176034179017,18,15,2,0,1009,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+91.0,149.87652304399532,18,30,2,0,1010,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+117.0,132.5310074614513,18,45,2,0,1011,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+140.0,127.52509574549545,19,0,2,0,1012,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+115.0,120.1255502409942,19,15,2,0,1013,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+147.0,120.28870730366418,19,45,2,0,1014,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+146.0,120.98967930293298,20,0,2,0,1015,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+139.0,129.49030741434618,20,15,2,0,1016,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+154.0,131.5917486457486,20,30,2,0,1017,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+161.0,132.01556408844436,20,45,2,0,1018,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+144.0,134.29674812090727,21,0,2,0,1019,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+150.0,130.05118732215897,21,15,2,0,1020,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+158.0,125.05547838138578,21,30,2,0,1021,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+35.0,121.56228779283491,21,45,2,0,1022,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+40.0,40.27866480257138,22,0,2,0,1023,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+45.0,43.72865683881302,22,15,2,0,1024,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+55.0,43.397128403832596,22,30,2,0,1025,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+46.0,43.103487375359755,22,45,2,0,1026,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+39.0,41.27171877776585,23,0,2,0,1027,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+38.0,41.88444083134959,23,15,2,0,1028,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+29.0,41.116594837853235,23,30,2,0,1029,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+45.0,41.722667219434996,23,45,2,0,1030,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+50.0,40.80364914498943,0,0,3,0,1031,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+51.0,42.49171418890896,0,15,3,0,1032,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,43.41324749188903,0,30,3,0,1033,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+35.0,40.94091544961981,0,45,3,0,1034,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+25.0,40.76352900534926,1,0,3,0,1035,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+32.0,42.358315440347745,1,15,3,0,1036,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+47.0,42.68751419146955,1,30,3,0,1037,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+49.0,41.2123678815068,1,45,3,0,1038,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+48.0,43.501804851373315,2,0,3,0,1039,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+32.0,44.14070911322181,2,15,3,0,1040,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+44.0,42.90468252899684,2,30,3,0,1041,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+48.0,42.507212464023105,2,45,3,0,1042,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+39.0,39.178894885822835,3,0,3,0,1043,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+40.0,44.0776123543959,3,15,3,0,1044,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+42.0,46.63564541197066,3,30,3,0,1045,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+29.0,73.92419229719087,3,45,3,0,1046,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+119.0,111.74030124581621,4,0,3,0,1047,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+100.0,101.80164190870468,4,15,3,0,1048,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+120.0,126.27258740412316,4,30,3,0,1049,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+112.0,117.98543058342214,4,45,3,0,1050,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+95.0,115.15791672273345,5,0,3,0,1051,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+147.0,116.90881194404466,5,15,3,0,1052,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+127.0,146.4427564944989,5,30,3,0,1053,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+203.0,141.74219368614652,5,45,3,0,1054,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+192.0,183.93372269940457,6,0,3,0,1055,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+172.0,188.1275339931599,6,15,3,0,1056,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+166.0,185.72137104375142,6,30,3,0,1057,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+177.0,191.0056086996744,7,0,3,0,1058,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+205.0,187.0009716350836,7,15,3,0,1059,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+198.0,189.48240532718657,7,30,3,0,1060,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+164.0,185.70083185204967,7,45,3,0,1061,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+213.0,172.31932511992736,8,15,3,0,1062,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+192.0,184.79654206398544,8,30,3,0,1063,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+184.0,182.97906691799642,8,45,3,0,1064,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+155.0,128.5782045052679,9,0,3,0,1065,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+68.0,102.36180656431549,9,30,3,0,1066,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+101.0,109.8078774996376,9,45,3,0,1067,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+116.0,109.8962189290903,10,0,3,0,1068,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+175.0,95.68453252195495,10,30,3,0,1069,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+79.0,138.61947913959523,10,45,3,0,1070,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+68.0,103.97620938769518,11,0,3,0,1071,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+57.0,90.7493208410136,11,15,3,0,1072,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+100.0,94.71296311098085,11,30,3,0,1073,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+71.0,90.63445445937921,11,45,3,0,1074,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+86.0,85.27295361545593,12,0,3,0,1075,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+93.0,86.50042731126933,12,15,3,0,1076,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+80.0,90.10060479844117,12,30,3,0,1077,0,1,1,0,0,1,0,0,Acceptable red / low-medium demand,Wasted green
+97.0,87.93055007916396,12,45,3,0,1078,1,0,0,0,0,0,0,0,Useful green / acceptable,Acceptable red / low-medium demand
+157.0,113.25617846736255,13,0,3,0,1079,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+154.0,119.93223239566909,13,15,3,0,1080,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+142.0,130.11590343028928,13,30,3,0,1081,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+73.0,112.61552284373516,14,0,3,0,1082,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+113.0,121.27178348577769,14,15,3,0,1083,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+96.0,102.13262992163058,14,30,3,0,1084,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+91.0,118.23656364478437,14,45,3,0,1085,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+160.0,113.66178968281079,15,0,3,0,1086,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+182.0,182.09987747586965,16,0,3,0,1087,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+170.0,186.2659265230019,16,15,3,0,1088,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+171.0,184.68033286914704,16,30,3,0,1089,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+185.0,190.4510707988152,16,45,3,0,1090,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+158.0,191.09416406312812,17,0,3,0,1091,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+206.0,180.63814183249144,17,30,3,0,1092,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+220.0,186.77973028347657,17,45,3,0,1093,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+211.0,175.42407952283057,18,0,3,0,1094,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+208.0,172.17208383276974,18,15,3,0,1095,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+164.0,141.6642133686676,18,30,3,0,1096,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+172.0,146.22092196818758,18,45,3,0,1097,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+161.0,143.40923494658747,19,0,3,0,1098,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+93.0,134.24370568943968,19,15,3,0,1099,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+151.0,127.63783766921247,19,30,3,0,1100,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+134.0,127.23902103737841,19,45,3,0,1101,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+135.0,126.78995707548789,20,0,3,0,1102,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+105.0,126.53527397992082,20,15,3,0,1103,0,1,0,0,0,0,0,0,Acceptable red / low-medium demand,Useful green / acceptable
+90.0,123.37313671179704,20,30,3,0,1104,1,1,0,0,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+162.0,119.79094045812262,20,45,3,0,1105,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+142.0,127.8473257187922,21,0,3,0,1106,1,1,0,1,0,0,0,0,Useful green / acceptable,Useful green / acceptable
+149.0,107.30955860198765,21,30,3,0,1107,0,1,0,1,0,0,1,0,Missed high-demand,Useful green / acceptable
+42.0,103.16598923095555,21,45,3,0,1108,1,1,1,0,1,1,0,0,Wasted green,Wasted green
+46.0,41.6306358818442,22,0,3,0,1109,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+38.0,43.172153845224415,22,15,3,0,1110,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+56.0,41.678127853822986,22,30,3,0,1111,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+42.0,43.33528118909495,22,45,3,0,1112,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+45.0,41.13141139331095,23,0,3,0,1113,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand
+48.0,41.467774657131976,23,15,3,0,1114,1,0,1,0,1,0,0,0,Wasted green,Acceptable red / low-medium demand
+33.0,41.51732822121598,23,30,3,0,1115,0,0,1,0,0,0,0,0,Acceptable red / low-medium demand,Acceptable red / low-medium demand

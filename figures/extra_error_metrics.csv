@@ -1,0 +1,9 @@
+Metric,Value
+Mean actual traffic count,113.99193548387096
+Overall MAE,18.71268771834885
+Overall normalised MAE (%),16.415799625576636
+Demand boundary,113.99193548387096
+Low-demand MAE,15.565105422071678
+Low-demand normalised MAE (%),24.241862690855097
+High-demand MAE,22.155540398892164
+High-demand normalised MAE (%),13.152862525461142

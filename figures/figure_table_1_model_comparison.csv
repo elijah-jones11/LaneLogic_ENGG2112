@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R²
+Linear Regression,21.659,29.829,0.755
+Random Forest,18.713,25.31,0.823
+Reduced Random Forest,18.949,25.748,0.817
